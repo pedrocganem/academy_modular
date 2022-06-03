@@ -1,0 +1,3 @@
+enum RemoteClientError {
+  badRequest, unknown
+}
